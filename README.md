@@ -1,4 +1,6 @@
-# Docker-xmltv-sd-json
+# Schedules direct to XMLTV
+
+I use this for Plex, because their guide for the UK has loads of data errors and weirdness.
  
 Quick and dirty container for Schedules Direct to XMLTV.
 
