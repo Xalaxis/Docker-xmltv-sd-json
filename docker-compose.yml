@@ -1,0 +1,6 @@
+version: '3.4'
+
+services:
+  docker-xmltv-sd-json:
+    image: docker-xmltv-sd-json
+    build: .
